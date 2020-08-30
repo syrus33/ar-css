@@ -160,7 +160,7 @@ ul.thin li {
 /* Layout (Every page) */
 
 #header {
-	background: url('images/header.png') no-repeat;
+	background: url('https://raw.githubusercontent.com/syrus33/ar-css/master/AR-CSS/images/header.png') no-repeat;
 	height: 187px;
 	width: 1022px;
 }
