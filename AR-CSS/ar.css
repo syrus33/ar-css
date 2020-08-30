@@ -166,7 +166,7 @@ ul.thin li {
 }
 
 #content {
-	background: #d9d8d2 url('images/content.png') repeat-y;
+	background: #d9d8d2 url('https://raw.githubusercontent.com/syrus33/ar-css/master/AR-CSS/images/content.png') repeat-y;
 	width: 1022px;
 	overflow: auto;
 	padding: 30px 0;
